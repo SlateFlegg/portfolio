@@ -52,10 +52,10 @@
 ### Визуализация
 * Статья на хабр  [Как подсветить временные отрезки на графиках](https://habr.com/ru/post/710530/)
 * ***Облака слов (python)** Сбор слов из комментариев ВК, через api-vk, лемматизации их и построения облака ключевых слов:
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5788beb6-915c-478b-9bcf-310706a7491b/Untitled.png)
-
+![image](https://github.com/user-attachments/assets/48ff811b-9e96-4ec4-b0d8-3c340751e7ba)
 * ***Диаграмма Сенка (python)**
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2abe220-5755-4255-9893-a89283856060/Untitled.png)
+![image](https://github.com/user-attachments/assets/bf87a333-4f27-45a1-980d-a4443b399c2a)
+
 ## Case solving experience
 * **Финалист (топ-5)** CupTechnical. Кейс Норникеля: “По разработке эффективной системы мотивации персонала и увеличения производительности труда на Быстринском месторождении”
 * **Второе место** Eco solution cup MGIMO goes green
