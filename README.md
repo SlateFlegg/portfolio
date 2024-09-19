@@ -69,7 +69,7 @@
 Ролик-интервью про работу в Цифровой лаборатории в инженерной школе Forbes [youtu.be/dQ_atZqOEa4](http://youtu.be/dQ_atZqOEa4)
 ### Статьи о геологии и образовании
 Научно-популярные статье и для “Коалиции авторов Росгеологии”: 
-[Мария Смирнова](https://blog.rusgeology.ru/authors/mariya-smirnova)
+[Мария Смирнова](https://blog.rusgeology.ru/authors/mariya-smirnova)   
 Серия статей об образовательной системе ФРГ для “Вестника образования”:
 * [Поездка в Германию: из магистратуры в детский сад](https://vogazeta.ru/articles/2018/11/16/international/5229-poezdka_v_germaniyu_iz_magistratury_v_detskiy_sad_chast_1)
 * [Квест "Попади в университет"](https://vogazeta.ru/articles/2018/11/21/international/5274-kvest_popadi_v_universitet_obrazovatelnoe_puteshestvie_po_germanii_chast_2)
