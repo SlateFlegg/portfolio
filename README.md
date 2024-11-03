@@ -102,6 +102,7 @@ m3m0.
 
 **Papers**:
 
+·         Хамардюк, А. В., Селиверстова, И. В., Cмирнова, М. Д., & Карпова, А. П. (2023). ИСПОЛЬЗОВАНИЕ ЦИФРОВЫХ ТЕХНОЛОГИЙ ПРИ ФОРМИРОВАНИИ ИНФОРМАЦИОННОЙ БАЗЫ АНАЛИЗА КАДРОВОГО РАЗВИТИЯ СФЕРЫ ОБРАЗОВАНИЯ. Вестник Московского городского педагогического университета. Серия: Информатика и информатизация образования, (3 (65)), 41-56. [Страница статьи на сайте журнала.](https://dlt.mgpu.ru/2023/11/01/ispolzovanie-czifrovyh-tehnologij-pri-formirovanii-informaczionnoj-bazy-analiza-kadrovogo-razvitiya-sfery-obrazovaniya/)  
 ·         Толстых М.Л., Бабанский А.Д., Смирнова М.Д и др. (2023) «Вулканизм начальной фазы заложения северного сегмента субдукции Тихоокеанской плиты (полуостров Камчатка, хребет Кумроч). Вулканология и сейсмология №2 стр. 52-68.
 
 ·         Butvina V.G., Smirnova M.D., Safonov O.G., Van K.V. (2019). Experimental modeling of subsolidus parageneses of ultramafic lamprophyres of the Irkeneeva-Chadobets trough, South -Western Siberia, at high PT-parameters. Experiment in GeoSciences 25.1, 51-54 [[paper](https://www.dropbox.com/s/z0e6betbvk0ew8e/Experimental%20modeling%20of.pdf?dl=0 "https://www.dropbox.com/s/z0e6betbvk0ew8e/Experimental%20modeling%20of.pdf?dl=0")]
@@ -109,6 +110,7 @@ m3m0.
 ·         Nosova, A. A., Sazonova, L. V., Kargin, A. V., Smirnova, M. D., Lapin, A. V., & Shcherbakov, V. D. (2018). Olivine in ultramafic lamprophyres: chemistry, crystallisation, and melt sources of Siberian Pre-and post-trap aillikites. Contributions to Mineralogy and Petrology, 173(7), 1-27 [[paper](https://www.researchgate.net/publication/325856415_Olivine_in_ultramafic_lamprophyres_chemistry_crystallisation_and_melt_sources_of_Siberian_Pre-_and_post-trap_aillikites "https://www.researchgate.net/publication/325856415_Olivine_in_ultramafic_lamprophyres_chemistry_crystallisation_and_melt_sources_of_Siberian_Pre-_and_post-trap_aillikites")]
 
 ·         Каргин, А. В., Носова, А. А., Постников, А. В., Чугаев, А. В., Постникова, О. В., Попова, Л. П., ... & Смирнова, М. Д. (2016). Девонские ультрамафические лампрофиры Иркинеево-Чадобецкого прогиба юга-запада Сибирской платформы: возраст, состав и значение для прогноза алмазоносности. Геология рудных месторождений, 58(5), 430-450. [[paper](https://www.dropbox.com/s/dydk6czd45jv5xp/%D0%94%D0%B5%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BB%D0%B0%D0%BC%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D1%80%D1%8B%20%D0%98%D1%80%D0%BA%D0%B8%D0%BD%D0%B5%D0%B5%D0%B2%D0%BE-%D0%A7%D0%B0%D0%B4%D0%BE%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE.pdf?dl=0 "https://www.dropbox.com/s/dydk6czd45jv5xp/%D0%94%D0%B5%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BB%D0%B0%D0%BC%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D1%80%D1")]
+
 
 **Achievements**
 
@@ -129,6 +131,8 @@ m3m0.
 §  2015, April. Universiade "Lomonosov". Field of knowledge: geology, winner.
 
 **Conferences papers**
+
+·      Использование средств языка Python для автоматической обработки данных результатов диагностик: повыш / М. Д. Смирнова, А. П. Карпова, И. В. Селиверстова, А. В. Хамардюк // Искусственный интеллект и роботизированные системы в образовании : сборник статей Межрегиональной научно-практической конференции, Новосибирск, 30 ноября 2023 года. – Новосибирск: Новосибирский государственный педагогический университет, 2024. – С. 90-95. – EDN NKNHAC. [Текст](https://disk.yandex.ru/i/EKvvhCcs3r9GOg), [видео-презентация](https://rutube.ru/video/f45bd2d25f1331c00518bcb4caf3a65c/)
 
 ·      May, 2021. 90th anniversary of IGEM RAS “Petrology and geochemistry features of Baidara massive (Central Kamchatka Depression)” [paper; [presentation](https://www.dropbox.com/s/agp0e8risaofx7y/90%20%D0%BB%D0%B5%D1%82%20%D0%B8%D0%B3%D0%B5%D0%BC%D1%83.pdf?dl=0 "https://www.dropbox.com/s/agp0e8risaofx7y/90%20%D0%BB%D0%B5%D1%82%20%D0%B8%D0%B3%D0%B5%D0%BC%D1%83.pdf?dl=0")]
 
