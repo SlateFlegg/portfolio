@@ -48,10 +48,14 @@
 ### Хакатоны
 #### Хакатон “Цифровой прорыв”. Infrastructure object recognition using satellite data
 
-Задача: Создание бинарной маски - здание/не здание. Ключевая метрика F1-score восьмая по лидерборду на финальном сете. [](https://github.com/SlateFlegg/Infrastructure_object_recognition/tree/main)[https://github.com/SlateFlegg/Infrastructure_object_recognition](https://github.com/SlateFlegg/Infrastructure_object_recognition)
+Задача: Создание бинарной маски - здание/не здание. Ключевая метрика F1-score восьмая по лидерборду на финальном сете. [](https://github.com/SlateFlegg/Infrastructure_object_recognition/tree/main)[https://github.com/SlateFlegg/Infrastructure_object_recognition](https://github.com/SlateFlegg/Infrastructure_object_recognition)  
+
+#### Хакатон "Лидеры цифровой трансформации - 2024". Привязка космоснимков к подложке  
+Задача: привязка отдельного космоснимка к подложке. Космоснимок может иметь существенные искажения. [Репозиторий на github](https://github.com/SlateFlegg/LDT_satellite_task18_2023)
 
 #### Хакатон “Цифровой прорыв”. Классификация агрокультур на основе изменения показателя вегетационных индексов во временной последовательности 
 Задача: Классификация агрокультур на основе изменения показателя вегетационных индексов во временной последовательности [https://github.com/SlateFlegg/innopolis_ndvi](https://github.com/SlateFlegg/innopolis_ndvi)
+
 
 #### Хакатон “Антихакатон от ВкусВилл”
 Во время хакатона было проанализировано с помощью python, SQL & PowerBI несколько миллионов строк данных о нахождения точек продаж, покупок, возвратов и т.п.. 
