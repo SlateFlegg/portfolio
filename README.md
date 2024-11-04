@@ -107,6 +107,8 @@ m3m0.
 * [Поездка в Германию: из магистратуры в детский сад](https://vogazeta.ru/articles/2018/11/16/international/5229-poezdka_v_germaniyu_iz_magistratury_v_detskiy_sad_chast_1)
 * [Квест "Попади в университет"](https://vogazeta.ru/articles/2018/11/21/international/5274-kvest_popadi_v_universitet_obrazovatelnoe_puteshestvie_po_germanii_chast_2)
 
+
+
 # Science
 **Master thesis** «Olivine and clinopyroxene of the Phanerozoic ultramafic lamprophyres (South-Wes Siberia): composition, zonality, and formation» (in Russian) [[thesis](https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0 "https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0"); [presentation](https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0 "https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0")]
 
