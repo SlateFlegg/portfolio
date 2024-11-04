@@ -59,6 +59,7 @@ m3m0.
 ### Работа с данными  
 - Тетрадка-шпоргалка про работу с изображениями с помощью python. [Тетерадка на github](https://github.com/SlateFlegg/BasicImageManipulation)  
 - Тетрадки для подготовки к олимпиаде по анализу данных ДАНО ВШЭ для школьников. [Репозиторий на github](https://github.com/SlateFlegg/training_dano_olymp)
+- Материалы для вовлечения школьников в разработку системы анализирующую и формирующую протфолио учащихся. Канал на [rutube](https://rutube.ru/plst/599878/), репозиторий на [gitflic](https://gitflic.ru/project/petitmx/nastavnik_by_1944).
 
 
 ### Хакатоны
