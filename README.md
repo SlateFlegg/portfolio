@@ -84,7 +84,6 @@
 ### QGIS
 Прошла практический курс ["Основы геоинформатики: практикум в QGIS"](https://aentin.github.io/qgis-course/): освоила работу с векторными, растровыми данными, shape-, geoJSON-, GeoPackage файлами, а также модулями `QuickOSM`, `QNEAT3`, `SAGA`, `GDAL`. Ознакомиться с выполнеными работами можно на [Я.Диске](https://disk.yandex.ru/d/6AEpJNYDZSg7Hw).  
 Пример: поиск места проведения практического тура по географии ВОШ-2025:  
-![image](https://github.com/user-attachments/assets/ce87f066-e087-41f3-9214-36dda91ed25e)  
 ![image](https://github.com/user-attachments/assets/fb5168ae-e9d8-44c9-baa8-b205b51af79d)
 
 ### Google earth engine  
