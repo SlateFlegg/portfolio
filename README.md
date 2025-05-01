@@ -154,6 +154,7 @@
 **Papers**:
 
 ·         Хамардюк, А. В., Селиверстова, И. В., Cмирнова, М. Д., & Карпова, А. П. (2023). ИСПОЛЬЗОВАНИЕ ЦИФРОВЫХ ТЕХНОЛОГИЙ ПРИ ФОРМИРОВАНИИ ИНФОРМАЦИОННОЙ БАЗЫ АНАЛИЗА КАДРОВОГО РАЗВИТИЯ СФЕРЫ ОБРАЗОВАНИЯ. Вестник Московского городского педагогического университета. Серия: Информатика и информатизация образования, (3 (65)), 41-56. [Страница статьи на сайте журнала.](https://dlt.mgpu.ru/2023/11/01/ispolzovanie-czifrovyh-tehnologij-pri-formirovanii-informaczionnoj-bazy-analiza-kadrovogo-razvitiya-sfery-obrazovaniya/)  
+
 ·         Толстых М.Л., Бабанский А.Д., Смирнова М.Д и др. (2023) «Вулканизм начальной фазы заложения северного сегмента субдукции Тихоокеанской плиты (полуостров Камчатка, хребет Кумроч). Вулканология и сейсмология №2 стр. 52-68.
 
 ·         Butvina V.G., Smirnova M.D., Safonov O.G., Van K.V. (2019). Experimental modeling of subsolidus parageneses of ultramafic lamprophyres of the Irkeneeva-Chadobets trough, South -Western Siberia, at high PT-parameters. Experiment in GeoSciences 25.1, 51-54 [[paper](https://www.dropbox.com/s/z0e6betbvk0ew8e/Experimental%20modeling%20of.pdf?dl=0 "https://www.dropbox.com/s/z0e6betbvk0ew8e/Experimental%20modeling%20of.pdf?dl=0")]
