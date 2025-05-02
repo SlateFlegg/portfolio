@@ -157,7 +157,7 @@
 [Peer reviewed papers](#papers)  
 [Achievements](#achievements)  
 [Conferences papers](#conferences-papers)  
-[Field Trips/Practice](#field-trips-practice)  
+[Field Trips/Practice](#field-tripspractice)  
 [Projects](#projects)  
 
 ### thesises
