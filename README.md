@@ -42,6 +42,11 @@
 Моя роль: индивидуальное участие  
 Решение: [Github](https://github.com/SlateFlegg/innopolis_ndvi)  
 ### Другое  
+#### Домашки ML-тренировок Яндекса по CV  
+*[Страница курса](https://yandex.ru/yaintern/training/ml-training)* Автор курса:[Радослав Нейчев](https://www.linkedin.com/in/radoslav-neychev/), [girafe_ai](https://t.me/s/girafe_ai)  
+Репозиторий на gitflic. Примеры:
+* [03_hw_sobel_and_simple_hog.ipynb](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=03_hw_sobel_and_simple_hog.ipynb&branch=master) - реализация операции Собеля и HoG на `numpy`  
+* [06_.ipynb](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=06_.ipynb&branch=master) - восстановление параметров свётрки для сети с тремя светками, две из которых известны   
 #### Финальный проект Я.Практикума  
 Задача: оптимизация параметров "внепечного этапа"  доведения до целевого химического состава. Временные ряды.  
 Решение: [Github](https://github.com/SlateFlegg/yandex_practicum_ml/tree/main/final_project)
@@ -147,11 +152,20 @@
 
 
 # Science
+## Оглавление
+[Thesises](#thesises)
+[Peer reviewed papers](#papers)
+[Achievements](#achievements)
+[Conferences papers](#conferences-papers)
+[Field Trips/Practice](#field-trips/practice)
+[Projects](#projects)
+
+### thesises
 **Master thesis** «Olivine and clinopyroxene of the Phanerozoic ultramafic lamprophyres (South-Wes Siberia): composition, zonality, and formation» (in Russian) [[thesis](https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0 "https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0"); [presentation](https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0 "https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0")]
 
 **Bachelor thesis** «Petrology and geochemistry of quaternary Baydara volcanic center, Kamchatka» (in Russian) [[thesis](https://www.dropbox.com/s/xeyylpf95dvxkwc/Bachalor%20thesis%20Smirnova.pdf?dl=0 "https://www.dropbox.com/s/xeyylpf95dvxkwc/Bachalor%20thesis%20Smirnova.pdf?dl=0"); [presentation](https://www.dropbox.com/s/hblgy1p3y0bkgzd/Bachalor%20thesis%20Smirnova%20pres.pdf?dl=0 "https://www.dropbox.com/s/hblgy1p3y0bkgzd/Bachalor%20thesis%20Smirnova%20pres.pdf?dl=0")]
 
-**Papers**:
+### Papers
 
 ·         Хамардюк, А. В., Селиверстова, И. В., Cмирнова, М. Д., & Карпова, А. П. (2023). ИСПОЛЬЗОВАНИЕ ЦИФРОВЫХ ТЕХНОЛОГИЙ ПРИ ФОРМИРОВАНИИ ИНФОРМАЦИОННОЙ БАЗЫ АНАЛИЗА КАДРОВОГО РАЗВИТИЯ СФЕРЫ ОБРАЗОВАНИЯ. Вестник Московского городского педагогического университета. Серия: Информатика и информатизация образования, (3 (65)), 41-56. [Страница статьи на сайте журнала.](https://dlt.mgpu.ru/2023/11/01/ispolzovanie-czifrovyh-tehnologij-pri-formirovanii-informaczionnoj-bazy-analiza-kadrovogo-razvitiya-sfery-obrazovaniya/)  
 
@@ -164,7 +178,7 @@
 ·         Каргин, А. В., Носова, А. А., Постников, А. В., Чугаев, А. В., Постникова, О. В., Попова, Л. П., ... & Смирнова, М. Д. (2016). Девонские ультрамафические лампрофиры Иркинеево-Чадобецкого прогиба юга-запада Сибирской платформы: возраст, состав и значение для прогноза алмазоносности. Геология рудных месторождений, 58(5), 430-450. [[paper](https://www.dropbox.com/s/dydk6czd45jv5xp/%D0%94%D0%B5%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BB%D0%B0%D0%BC%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D1%80%D1%8B%20%D0%98%D1%80%D0%BA%D0%B8%D0%BD%D0%B5%D0%B5%D0%B2%D0%BE-%D0%A7%D0%B0%D0%B4%D0%BE%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE.pdf?dl=0 "https://www.dropbox.com/s/dydk6czd45jv5xp/%D0%94%D0%B5%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BB%D0%B0%D0%BC%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D1%80%D1")]
 
 
-**Achievements**
+### Achievements
 
 §  April, 2019. Got Early career scientist’s travel support (ECSTS) for European Geosciences Union (EGU) General Assembly.
 
@@ -182,7 +196,7 @@
 
 §  2015, April. Universiade "Lomonosov". Field of knowledge: geology, winner.
 
-**Conferences papers**
+### Conferences papers
 
 ·      Использование средств языка Python для автоматической обработки данных результатов диагностик: повыш / М. Д. Смирнова, А. П. Карпова, И. В. Селиверстова, А. В. Хамардюк // Искусственный интеллект и роботизированные системы в образовании : сборник статей Межрегиональной научно-практической конференции, Новосибирск, 30 ноября 2023 года. – Новосибирск: Новосибирский государственный педагогический университет, 2024. – С. 90-95. – EDN NKNHAC. [Текст](https://disk.yandex.ru/i/EKvvhCcs3r9GOg), [видео-презентация](https://rutube.ru/video/f45bd2d25f1331c00518bcb4caf3a65c/)
 
@@ -228,7 +242,7 @@
 
 ·      October, 2012. “Development of a model of interatomic potentials for borates structural modeling”. [[paper](https://www.dropbox.com/s/lv331joz9em7oxm/mssmi-2012-thesis.pdf?dl=0 "https://www.dropbox.com/s/lv331joz9em7oxm/mssmi-2012-thesis.pdf?dl=0"); [presentation](https://www.dropbox.com/s/6of05b1udpp6p73/mssmi-2012-pres.pdf?dl=0 "https://www.dropbox.com/s/6of05b1udpp6p73/mssmi-2012-pres.pdf?dl=0")]
 
-**Field Trips/Practice**
+### Field Trips/Practice
 
 ·      2016, June. Altai, «Geology, magmatism and metallogeny of Gorny Altai»
 
@@ -244,6 +258,6 @@
 
 ·      2012, June-July. Crimea «General Geology»
 
-**Projects**
+### Projects
 
 Found and manage pop-science lectorium «Лекторий молодых учёных», Фестиваль науки 2015 - 2019
