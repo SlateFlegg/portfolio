@@ -153,12 +153,12 @@
 
 # Science
 ## Оглавление
-[Thesises](#thesises)
-[Peer reviewed papers](#papers)
-[Achievements](#achievements)
-[Conferences papers](#conferences-papers)
-[Field Trips/Practice](#field-trips/practice)
-[Projects](#projects)
+[Thesises](#thesises)  
+[Peer reviewed papers](#papers)  
+[Achievements](#achievements)  
+[Conferences papers](#conferences-papers)  
+[Field Trips/Practice](#field-trips-practice)  
+[Projects](#projects)  
 
 ### thesises
 **Master thesis** «Olivine and clinopyroxene of the Phanerozoic ultramafic lamprophyres (South-Wes Siberia): composition, zonality, and formation» (in Russian) [[thesis](https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0 "https://www.dropbox.com/s/djyecsj4f0e5tq0/Master%20thesis%20Smirnova.pdf?dl=0"); [presentation](https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0 "https://www.dropbox.com/s/xvxgm8hzw69p7tu/Master%20thesis%20Smirnova%20pres.pdf?dl=0")]
