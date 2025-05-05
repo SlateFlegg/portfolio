@@ -46,7 +46,8 @@
 *[Страница курса](https://yandex.ru/yaintern/training/ml-training)* Автор курса:[Радослав Нейчев](https://www.linkedin.com/in/radoslav-neychev/), [girafe_ai](https://t.me/s/girafe_ai)  
 Репозиторий на gitflic. Примеры:
 * [03_hw_sobel_and_simple_hog.ipynb](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=03_hw_sobel_and_simple_hog.ipynb&branch=master) - реализация операции Собеля и HoG на `numpy`  
-* [06_.ipynb](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=06_.ipynb&branch=master) - восстановление параметров свётрки для сети с тремя светками, две из которых известны   
+* [06_.ipynb](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=06_.ipynb&branch=master) - восстановление параметров свётрки для сети с тремя светками, две из которых известны
+* [07_modules.ipyn](https://gitflic.ru/project/petitmx/ya_ml_3_homeworks/blob/?file=07_modules.ipynb&branch=master) - написание сети с только с помощью numpy (полносвязный слой, функции потерь, нормирование батчей)  
 #### Финальный проект Я.Практикума  
 Задача: оптимизация параметров "внепечного этапа"  доведения до целевого химического состава. Временные ряды.  
 Решение: [Github](https://github.com/SlateFlegg/yandex_practicum_ml/tree/main/final_project)
